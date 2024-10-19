@@ -1,0 +1,32 @@
+# RTL Design
+FIFO.v
+
+# Interface and Assertions
+FIFO_if.sv
+FIFO_SVA.sv
+
+# UVM Configuration
+FIFO_config.sv
+
+# UVM Data Structures (Transactions, Sequences, and Sequence Items)
+FIFO_Sequence_Item.sv
+FIFO_Sequence.sv
+FIFO_Sequencer.sv
+
+# UVM Driver and Monitor
+FIFO_driver.sv
+FIFO_monitor.sv
+
+# UVM Scoreboard and Coverage Collector
+FIFO_scoreboard.sv
+FIFO_cover_collector.sv
+
+# UVM Agent
+FIFO_agent.sv
+
+# UVM Environment
+FIFO_env.sv
+
+# UVM Test and Top-Level Testbench
+FIFO_test.sv
+FIFO_top.sv
